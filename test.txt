@@ -10,7 +10,7 @@
 		<ul>
 			<li><a href="#webtoon">웹툰</a></li>
 			<li><a href="#cloth">의류</a></li>
-			<li><a href="#music">엔터테인먼트</a></li>
+			<li><a href="#entertainment">엔터테인먼트</a></li>
 			<li><a href="#music">음악</a></li>
 		</ul>
 	</nav>
