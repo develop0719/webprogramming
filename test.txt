@@ -42,17 +42,17 @@
     <tr>
         <td>
             <a href="https://comic.naver.com/index">
-                <img src="C:/Users/user1/Desktop/자료/네이버 웹툰.jpg" >
+                <img src="https://image.newdaily.co.kr/site/data/img/2023/05/30/2023053000065_0.png" >
             </a>
         </td>
         <td>
             <a href="https://www.lezhin.com/ko?utm_source=google&utm_medium=cpc&utm_campaign=mkt_kr_brand_exact&utm_term=%EB%A0%88%EC%A7%84%EC%BD%94%EB%AF%B9%EC%8A%A4&BSCPN=ADEF&BSPRG=ADWORDS&BSCCN1=%EB%A0%88%EC%A7%84%EC%BD%94%EB%AF%B9%EC%8A%A4&gad=1&gclid=EAIaIQobChMIvNKtobuc_wIVzriWCh0XdQE_EAAYASAAEgKB8_D_BwE">
-                <img src="C:/Users/user1/Desktop/자료/레진코믹스.png" >
+                <img src="https://platum.kr/wp-content/uploads/2017/06/unnamed-1-2.png" >
             </a>
         </td>
         <td>
             <a href="https://webtoon.kakao.com">
-                <img src="C:/Users/user1/Desktop/자료/카카오 웹툰.jpg" >
+                <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAyMDlfMTkx%2FMDAxNDg2NjQ3NDkxODA0.VrcO2nc8THzRitM8siuaaGLQlVyj1tyYQpSRutr6b4Ig.uu985_cqdpqCowU38xGW1Nfnzh8-mu4moOtfoz0DY_0g.JPEG.yk6025_%2FScreenshot_2017-02-09-22-18-27_edit_edit.jpg&type=sc960_832" >
             </a>
     </tr>
 </table>   
@@ -85,17 +85,17 @@
     <tr>
         <td>
             <a href="https://www.musinsa.com/app">
-                <img src="C:/Users/user1/Desktop/자료/무신사.png" >
+                <img src="https://image.msscdn.net/mfile_s01/fb/share_musinsa.png" >
             </a>
         </td>
         <td>
             <a href="https://www.lookpin.co.kr/">
-                <img src="C:/Users/user1/Desktop/자료/룩핀.jpg" >
+                <img src="https://mblogthumb-phinf.pstatic.net/MjAxNzA2MDVfNTAg/MDAxNDk2NjMzODQ1MTcz.K5DZ5c1IeBWqPmlV8Bam4r3ZyVqxtkXQ-kmArzF0yg4g.9xVIXTjyteDPansJljUAXpYTXu63huCu-Tc1bn_3UD8g.JPEG.ssssswe/e072fc06-3590-44d9-bfa1-e02ef3024ff5.png.jpg?type=w800" >
             </a>
         </td>
         <td>
             <a href="https://onthelook.co.kr/?initFilter={%22styleTagIds%22:[],%22gender%22:[],%22height%22:[],%22weight%22:[],%22season%22:[]}">
-                <img src="C:/Users/user1/Desktop/자료/onthelook.jpeg" >
+                <img src="https://images.onthelook.co.kr/p/kk9xdk8WmipXheknN1Pfwy.jpeg" >
             </a>
     </tr>
 </table>   </p>
@@ -127,17 +127,17 @@
     <tr>
         <td>
             <a href="https://www.netflix.com/kr">
-                <img src="C:/Users/user1/Desktop/자료/넷플릭스.jpg" >
+                <img src="https://image.ytn.co.kr/general/jpg/2020/1021/202010211140011572_d.jpg" >
             </a>
         </td>
         <td>
             <a href="https://www.youtube.com">
-                <img src="C:/Users/user1/Desktop/자료/유튜브.png" >
+                <img src="https://www.youtube.com/img/desktop/yt_1200.png" >
             </a>
         </td>
         <td>
             <a href="https://www.coupangplay.com/promotion/coupangplayseries">
-                <img src="C:/Users/user1/Desktop/자료/쿠팡플레이.jpg" >
+                <img src="https://blog.kakaocdn.net/dn/74Eva/btrIVgsdV9g/WEJeAtoP9JU5f0A88t15R0/img.jpg" >
             </a>
     </tr>
 </table>   </p>
@@ -168,17 +168,17 @@
     <tr>
         <td>
             <a href="https://www.melon.com/">
-                <img src="C:/Users/user1/Desktop/자료/멜론.jpg" >
+                <img src="https://image.ajunews.com/content/image/2018/03/22/20180322083028625483.jpg" >
             </a>
         </td>
         <td>
             <a href="https://music.bugs.co.kr">
-                <img src="C:/Users/user1/Desktop/자료/벅스.png" >
+                <img src="https://lh3.ggpht.com/M6UXPC-jncjtUd020iWikIdSaQ80Q1je3-uyTy-NkdOHme0X518DuYGsG3ftxTi5-w" >
             </a>
         </td>
         <td>
             <a href="https://www.genie.co.kr">
-                <img src="C:/Users/user1/Desktop/자료/지니뮤직.png" >
+                <img src="https://static.news.zumst.com/images/77/2020/05/19/b50a4a1307e249b49b65bd28447c1a4c.jpg" >
             </a>
     </tr>
 </table>   
